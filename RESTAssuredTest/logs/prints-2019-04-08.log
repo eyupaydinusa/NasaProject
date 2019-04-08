@@ -1,0 +1,5 @@
+11:27:04.594 [main] INFO  TestFramework.GetNasaSearch - io.restassured.path.json.JsonPath@55b8dbda
+11:27:36.838 [main] INFO  TestFramework.GetNasaSearch - Host information https://images-api.nasa.gov
+11:27:38.584 [main] INFO  TestFramework.GetNasaSearch - io.restassured.path.json.JsonPath@55b8dbda
+11:28:36.633 [main] INFO  TestFramework.GetNasaSearch - Host information https://images-api.nasa.gov
+11:28:38.244 [main] INFO  TestFramework.GetNasaSearch - io.restassured.internal.RestAssuredResponseImpl@33abde31
