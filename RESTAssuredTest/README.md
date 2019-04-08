@@ -1,12 +1,12 @@
 What I used:
-created Maven project for Rest Assured
-installed all dependencies to POM.xml
-use the HOST info from env.properties
-create Reusable methods for the GET request
-create resources by using Nasa Documentation 
-used log4j to see the logs
-created tests with the name GetNasaSearch.java
-used TestNG to trigger my tests
+Created Maven project for Rest Assured.
+Installed all dependencies to POM.xml.
+Use the HOST info from env.properties.
+Create Reusable methods for the GET request.
+Create resources by using Nasa Documentation. 
+Used log4j to see the logs.
+Created tests with the name GetNasaSearch.java.
+Used TestNG to trigger my tests.
 
 How to run:
 
